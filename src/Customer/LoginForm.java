@@ -56,7 +56,7 @@ public class LoginForm {
 	public LoginForm() {
 		initialize();
 	}
-
+///***
 	/**
 	 * Initialize the contents of the frame.
 	 */
